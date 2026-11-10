@@ -97,6 +97,8 @@ This removed the administrative shutdown state and allowed the router-to-switch 
 
 ![Interface Activation](./images/interface_activation.png)
 
+![connection set](./images/connection-established.png
+
 ##  Troubleshooting & Technical Observations
 
 Rather than only documenting successful configurations, this section records what happened, why it happened, and how it was resolved.
