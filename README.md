@@ -180,19 +180,6 @@ mini-rack-virtual-network/
     └── network-design.md
 ```
 
-##  Future Development
-
-The project will continue to evolve as additional networking concepts are introduced.
-
-Planned areas of development:
-- Complete initial router configuration and verification.
-- Configure switch management and switching fundamentals.
-- Develop an IP addressing scheme.
-- Configure server network services.
-- Test connectivity between network devices.
-- Document troubleshooting scenarios.
-- Expand the topology as new concepts are learned.
-
 ##  Project Philosophy
 
 The goal isn't just to make a network that works in Packet Tracer.
