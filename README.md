@@ -17,8 +17,6 @@ The Cisco Packet Tracer includes:
 - A Server-PT device
 - A PC-PT workstation
 
-![Network Topology](./images/cisco-packet-tracer-topology.png)
-
 The goal is to visually interpret the initial topology by configuring network devices, understanding how they communicate, testing connectivity, and documenting troubleshooting scenarios.
 
 **Project status:** complete!
@@ -42,7 +40,7 @@ One of the main ideas behind this project is to emulate a physical rack setup in
 
 The initial topology establishes the connections between the router, switch, server, and workstation.
 
-![Network Topology](./images/topology.png)
+![Network Topology](./images/cisco-packet-tracer-topology.png)
 
 ### Connection Map
 
