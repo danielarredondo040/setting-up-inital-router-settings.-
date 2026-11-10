@@ -44,6 +44,8 @@ The initial topology establishes the connections between the router, switch, ser
 
 ### Connection Map
 
+![physical version](images/psychical-version.png)
+
 | Source | Destination | Connection |
 |---|---|---|
 | R1 GigabitEthernet0/0 | S1 GigabitEthernet0/1 | Ethernet |
