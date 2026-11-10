@@ -5,7 +5,7 @@
 
 ---
 
-## 🗺️ Project Overview
+## Project Overview
 
 This project explores how a small-business network is designed, configured, and maintained.
 
@@ -21,7 +21,7 @@ The goal is to visually interpret the initial topology by configuring network de
 
 **Project status:** complete!
 
-## 🧩 Physical to Virtual Architecture
+##  Physical to Virtual Architecture
 
 One of the main ideas behind this project is to emulate a physical rack setup into a virtual network.
 
@@ -36,7 +36,7 @@ One of the main ideas behind this project is to emulate a physical rack setup in
 
 *Note: The miniature appliances are decorative representations, not functional networking equipment. The A10 Networks Thunder 7655S is an application delivery controller, while Server-PT represents a general server role in this simulation.*
 
-## 🔍 Network Topology
+##  Network Topology
 
 The initial topology establishes the connections between the router, switch, server, and workstation.
 
@@ -95,7 +95,7 @@ This removed the administrative shutdown state and allowed the router-to-switch 
 
 ![Interface Activation](./images/interface_activation.png)
 
-## 🔍 Troubleshooting & Technical Observations
+##  Troubleshooting & Technical Observations
 
 Rather than only documenting successful configurations, this section records what happened, why it happened, and how it was resolved.
 
@@ -119,17 +119,17 @@ A cable can be connected correctly while an interface remains administratively d
 
 The running configuration represents the active configuration in RAM, while the startup configuration is stored in NVRAM and is used when the device restarts.
 
-## 📓 Development Journal
+##  Development Journal
 
 This project is being documented as a series of entries to show how the network develops over time.
 
-### 🚀 ENTRY 1 — Bringing the Mini Rack to Packet Tracer
+###  ENTRY 1 — Bringing the Mini Rack to Packet Tracer
 - Translated the miniature rack into virtual network device roles.
 - Built the initial topology.
 - Established Ethernet and console connections.
 - Documented the physical-to-virtual mapping.
 
-### 🚀 ENTRY 2 — Bringing the Router to Life
+###  ENTRY 2 — Bringing the Router to Life
 - Established console access through PC1.
 - Inspected the router's default configuration.
 - Applied initial router security settings.
@@ -138,7 +138,7 @@ This project is being documented as a series of entries to show how the network 
 
 *Future entries will document additional configurations, connectivity testing, and troubleshooting.*
 
-## 🧠 Skills & Concepts Practiced
+##  Skills & Concepts Practiced
 
 - Cisco IOS command-line interface (CLI)
 - Router initialization and configuration
@@ -178,7 +178,7 @@ mini-rack-virtual-network/
     └── network-design.md
 ```
 
-## 🎯 Future Development
+##  Future Development
 
 The project will continue to evolve as additional networking concepts are introduced.
 
@@ -191,7 +191,7 @@ Planned areas of development:
 - Document troubleshooting scenarios.
 - Expand the topology as new concepts are learned.
 
-## 💡 Project Philosophy
+##  Project Philosophy
 
 The goal isn't just to make a network that works in Packet Tracer.
 
