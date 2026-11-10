@@ -32,7 +32,7 @@ One of the main ideas behind this project is to emulate a physical rack setup in
 | A10 Networks Thunder 7655S | Server-PT (SRV1) | Server representation |
 | External workstation | PC-PT (PC1) | Administration and end-user access |
 
-![physical rack](./images/server-rack.png) ![pc1](pc.png)
+![physical rack](./images/server-rack.png) ![pc1](./images/pc.png)
 
 *Note: The miniature appliances are decorative representations, not functional networking equipment. The A10 Networks Thunder 7655S is an application delivery controller, while Server-PT represents a general server role in this simulation.*
 
