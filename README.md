@@ -53,7 +53,7 @@ The initial topology establishes the connections between the router, switch, ser
 
 ### Management Access
 
-![getting admin](accessing-the-router.png)
+![getting admin](./images/accessing-the-router.png)
 
 PC1 serves as the workstation used to administer the router.
 
