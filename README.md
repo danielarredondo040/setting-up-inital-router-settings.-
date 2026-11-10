@@ -93,7 +93,7 @@ no shutdown
 
 This removed the administrative shutdown state and allowed the router-to-switch physical link to become active.
 
-![Interface Activation](./images/interface-activation.png)
+![Interface Activation](./images/interface_activation.png)
 
 ## 🔍 Troubleshooting & Technical Observations
 
