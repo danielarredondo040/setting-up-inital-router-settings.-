@@ -63,6 +63,8 @@ Packet Tracer's Desktop → Terminal interface provides a convenient GUI based w
 
 ### Router — Initial Configuration
 
+![Inital Config](./images/settinguproutersettings.png)
+
 The first configuration exercise focuses on establishing administrative access and securing the router.
 
 Work completed:
